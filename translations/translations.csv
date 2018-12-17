@@ -50,7 +50,7 @@ n.valid              ,row name (descr)                ,N.Valid                  
 pct.valid            ,row name (descr)                ,Pct.Valid                        ,Pct.Valide                          ,                                 ,
 no                   ,column name (dfSummary)         ,No                               ,No                                  ,                                 ,
 stats.values         ,column name (dfSummary)         ,Stats / Values                   ,Stats / valeurs                     ,                                 ,
-freqs.pct.valid      ,column name (dfSummary)         ,Freqs (% of Valid)               ,Freq (%, non-manquant)              ,                                 ,
+freqs.pct.valid      ,column name (dfSummary)         ,Freqs (% of Valid)               ,Freq (% de valide)                  ,                                 ,
 graph                ,column name (dfSummary)         ,Graph                            ,Diagramme                           ,                                 ,
 text.graph           ,column name (dfSummary)         ,Text Graph                       ,Diagramme texte                     ,                                 ,
 missing              ,column name (dfSummary)         ,Missing                          ,Manquant                            ,                                 ,
